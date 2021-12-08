@@ -1,5 +1,17 @@
+<<<<<<< HEAD
 h1
 {
     color:red;
     
+=======
+h1 {
+    color: red;
+    text-align: center;
+  } 
+p {
+    color: royalblue;
+}
+nav {
+    color: salmon;
+>>>>>>> feature-2
 }
